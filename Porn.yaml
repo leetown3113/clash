@@ -1,8 +1,11 @@
 payload:
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,jav321.com
+  - DOMAIN-SUFFIX,javdb.com
+  
   - DOMAIN-SUFFIX,arzon.jp
   - DOMAIN-SUFFIX,avbase.net
-  - DOMAIN-SUFFIX,jav321.com
-  - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,heyzo.com
   - DOMAIN-SUFFIX,10musume.com
   - DOMAIN-SUFFIX,1pondo.tv
@@ -14,7 +17,6 @@ payload:
   - DOMAIN-SUFFIX,dahlia-av.jp
   - DOMAIN-SUFFIX,duga.jp
   - DOMAIN-SUFFIX,faleno.jp
-  - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,sod.co.jp
   - DOMAIN-SUFFIX,adult.contents.fc2.com
   - DOMAIN-SUFFIX,gcolle.net
@@ -30,4 +32,3 @@ payload:
   - DOMAIN-SUFFIX,my.tokyo-hot.com
   - DOMAIN-SUFFIX,xxx-av.com
   - DOMAIN-SUFFIX,javten.com
-  - DOMAIN-SUFFIX,javdb.com
